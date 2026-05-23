@@ -1,6 +1,6 @@
 # Hi, 👋 I'm Sagar
 
-💻 Senior Full-Stack Developer building scalable web applications and SaaS platforms.
+💻 Full-Stack Developer building scalable web applications and SaaS platforms.
 
 I enjoy building reliable backend systems, intuitive frontend experiences, and solving real-world business problems through technology.
 
